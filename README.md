@@ -3,9 +3,13 @@
 
 ### Main
 ▸ [Aimbot](product/x-ro-premium-lifetime) · Enabled
+
 ▸ [Aimbot](product/x-ro-premium-lifetime) · Wall Check
+
 ▸ [Aimbot](product/x-ro-premium-lifetime) · Alive Check
+
 ▸ [Aimbot](product/x-ro-premium-lifetime) · Team Check
+
 ▸ [Aimbot](product/x-ro-premium-lifetime) · Refresh Aimbot
 
 ▸ [ESP](product/x-ro-premium-lifetime) · Enabled
